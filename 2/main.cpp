@@ -79,5 +79,6 @@ int main (int argc, char *argv[]) {
 
     cout << safe_count << endl;
 
+    input.close();
     return 0;
 }

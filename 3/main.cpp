@@ -78,5 +78,6 @@ int main (int argc, char *argv[]) {
 
     cout << sum << endl;
 
+    input.close();
     return 0;
 }
