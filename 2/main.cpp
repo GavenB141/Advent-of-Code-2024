@@ -17,7 +17,7 @@ bool validate_report(const string& line) {
         if (a == b) return false;
 
         bool increase = b > a;
-        if (increase != increasing) return false;;
+        if (increase != increasing) return false;
 
         if (abs(a - b) > 3) return false;
 
