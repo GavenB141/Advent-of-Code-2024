@@ -3,7 +3,7 @@ I began participation well into day 2.
 
 ```
 Day   -Part 1-   -Part 2-
- 10   00:59:56   01:01:48  // got stumped by a small typo
+ 10   00:59:56   01:01:48
   9   00:39:28   01:12:22
   8   00:51:15   00:58:45
   7   00:49:46   01:25:25
