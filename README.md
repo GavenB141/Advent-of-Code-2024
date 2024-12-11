@@ -3,6 +3,7 @@ I began participation well into day 2.
 
 ```
 Day   -Part 1-   -Part 2-
+ 11   00:13:34   02:19:59
  10   00:59:56   01:01:48
   9   00:39:28   01:12:22
   8   00:51:15   00:58:45
