@@ -257,7 +257,7 @@ int main(int argc, char* argv[]) {
     }
 
     // This is very slow
-    // I could write a better algorithm
+    // I could try to write a better algorithm
     // but I've got stuff to do so I'm just gonna let this churn for a while
     vector<path_t> paths = all_paths(maze, start);
     set<Vec2> nodes;
