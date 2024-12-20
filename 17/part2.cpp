@@ -46,6 +46,7 @@ int iter_output_from_a (string program, uint64_t a) {
     return -1;
 }
 
+// Assumes that A is divided by 8 each loop
 uint64_t solve_for(
     const string& program,
     string sub = "",
